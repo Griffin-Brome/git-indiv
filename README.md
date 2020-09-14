@@ -1,6 +1,6 @@
 # COSC 499 Git Assignment
 
-This is a simple implementation of a top-down merge sort as outlined in [this article] (https://en.wikipedia.org/wiki/Merge_sort#Top-down_implementation_using_lists). It currently supports integers, which it sorts in _ascending_ order.
+This is a simple implementation of a top-down merge sort as outlined in [this article](https://en.wikipedia.org/wiki/Merge_sort#Top-down_implementation_using_lists). It currently supports integers, which it sorts in _ascending_ order.
 
 ## Methods
 
