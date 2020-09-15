@@ -5,7 +5,6 @@ Author: Griffin Brome | 63057285
 This is a simple python program that can take a list of integers, and either
 sort them ascendingly or descendingly. Both of these are done using merge sort
 """
-# This is a change
 
 def merge_sort(input_list):
     """
