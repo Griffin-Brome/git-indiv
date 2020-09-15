@@ -4,6 +4,8 @@ Pytest tests for main.py
 
 from main import *
 
+# this is a change
+
 def test_merge():
     left = [1,7,9,20]
     right = [3,5,15]
