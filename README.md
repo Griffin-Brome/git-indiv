@@ -4,10 +4,10 @@ This is a simple implementation of a top-down merge sort as outlined in [this ar
 
 ## Methods
 
-### merge_sort()
+### `merge_sort()`
 
 This method is the main caller method in the program. It recursively calls itself on each half of the input array, then uses the `merge()` helper method to join them.
 
-### merge()
+### `merge()`
 
 This is a helper method that takes two sorted lists and combines them into one sorted list.
